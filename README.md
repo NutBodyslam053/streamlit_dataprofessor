@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Streamlit_dataprofessor
 
 Description of the app ...
 
